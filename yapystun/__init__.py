@@ -3,7 +3,7 @@ import logging
 import random
 import socket
 
-__version__ = "0.2.0"
+__version__ = "0.2.2"
 
 log = logging.getLogger("pystun")
 
