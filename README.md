@@ -5,6 +5,10 @@
    :target: https://coveralls.io/r/jtriley/pystun
 
 
+Yet Another PyStun Fork. Works with Python 3.11. Forked from:
+
+```https://github.com/jtriley/pystun```
+
 PyStun
 ======
 A Python STUN client for getting NAT type and external IP
